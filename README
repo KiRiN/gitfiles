@@ -1,0 +1,5 @@
+# required homesick installed
+
+# install
+homesick clone https://github.com/KiRiN/gitfiles.git
+homesick symlink gitfiles
