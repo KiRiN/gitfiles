@@ -2,4 +2,4 @@
 
 # install
 homesick clone https://github.com/KiRiN/gitfiles.git
-homesick symlink gitfiles
+homesick symlink gitfiles.git
